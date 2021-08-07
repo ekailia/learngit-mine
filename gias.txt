@@ -5,3 +5,5 @@ Git is created by Linus.
 gias is now on GitHub.
 
 created from dev branch. this could be dev of a new feature/bug.
+
+creating a new branch is quick AND simple.
