@@ -8,3 +8,4 @@ created from dev branch. this could be dev of a new feature/bug.
 
 Creating a new branch is quick & simple.
 A new attempt of no-ff
+a new chapter for bug dev
